@@ -1,10 +1,8 @@
 ![CI status](https://github.com/lclutz/cpp-template/actions/workflows/ci.yml/badge.svg)
 
-# CPP Template
+# Levenshtein Distance
 
-A template for cross-platform C++ projects using
-[vcpkg](https://github.com/microsoft/vcpkg) and
-[CMake](https://cmake.org/).
+Edit distance between strings.
 
 ## Quick-Start
 
