@@ -1,4 +1,4 @@
-![CI status](https://github.com/lclutz/cpp-template/actions/workflows/ci.yml/badge.svg)
+![CI status](https://github.com/lclutz/Levenshtein-Distance/actions/workflows/ci.yml/badge.svg)
 
 # Levenshtein Distance
 
